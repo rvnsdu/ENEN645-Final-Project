@@ -1,0 +1,218 @@
+{
+    "foreground_mean": {
+        "Dice": 0.9070788925578236,
+        "FN": 32117.583333333332,
+        "FP": 18928.166666666668,
+        "IoU": 0.830580378803098,
+        "TN": 99788745.83333333,
+        "TP": 299216.4166666667,
+        "n_pred": 318144.5833333333,
+        "n_ref": 331334.0
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9070788925578236,
+            "FN": 32117.583333333332,
+            "FP": 18928.166666666668,
+            "IoU": 0.830580378803098,
+            "TN": 99788745.83333333,
+            "TP": 299216.4166666667,
+            "n_pred": 318144.5833333333,
+            "n_ref": 331334.0
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9044778581049506,
+                    "FN": 8037,
+                    "FP": 16288,
+                    "IoU": 0.8256134892357103,
+                    "TN": 75882271,
+                    "TP": 115164,
+                    "n_pred": 131452,
+                    "n_ref": 123201
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0008.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8926014319809069,
+                    "FN": 21983,
+                    "FP": 3712,
+                    "IoU": 0.8060344827586207,
+                    "TN": 82180744,
+                    "TP": 106777,
+                    "n_pred": 110489,
+                    "n_ref": 128760
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0010.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9078632834212563,
+                    "FN": 18037,
+                    "FP": 8982,
+                    "IoU": 0.8312725592316434,
+                    "TN": 70094458,
+                    "TP": 133115,
+                    "n_pred": 142097,
+                    "n_ref": 151152
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0011.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8989571347026792,
+                    "FN": 14891,
+                    "FP": 7413,
+                    "IoU": 0.8164597065527769,
+                    "TN": 77735247,
+                    "TP": 99217,
+                    "n_pred": 106630,
+                    "n_ref": 114108
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0012.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0012.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8982096226382892,
+                    "FN": 5746,
+                    "FP": 18110,
+                    "IoU": 0.8152273255363643,
+                    "TN": 65406890,
+                    "TP": 105254,
+                    "n_pred": 123364,
+                    "n_ref": 111000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0014.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0014.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9027385976134487,
+                    "FN": 14249,
+                    "FP": 6886,
+                    "IoU": 0.8227197235316814,
+                    "TN": 66989646,
+                    "TP": 98083,
+                    "n_pred": 104969,
+                    "n_ref": 112332
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0017.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0017.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571755498089114,
+                    "FN": 4040,
+                    "FP": 27165,
+                    "IoU": 0.7500500620769754,
+                    "TN": 57546835,
+                    "TP": 93640,
+                    "n_pred": 120805,
+                    "n_ref": 97680
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0018.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0018.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9041025836736252,
+                    "FN": 7510,
+                    "FP": 17618,
+                    "IoU": 0.824988333948558,
+                    "TN": 96849701,
+                    "TP": 118451,
+                    "n_pred": 136069,
+                    "n_ref": 125961
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0019.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9317403199171863,
+                    "FN": 64751,
+                    "FP": 12795,
+                    "IoU": 0.8722039568552806,
+                    "TN": 145931701,
+                    "TP": 529249,
+                    "n_pred": 542044,
+                    "n_ref": 594000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0024.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0024.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9266442052584937,
+                    "FN": 64019,
+                    "FP": 42927,
+                    "IoU": 0.8633150440871801,
+                    "TN": 137367461,
+                    "TP": 675481,
+                    "n_pred": 718408,
+                    "n_ref": 739500
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0028.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.930047471572922,
+                    "FN": 63632,
+                    "FP": 34036,
+                    "IoU": 0.869241809204537,
+                    "TN": 154442312,
+                    "TP": 649268,
+                    "n_pred": 683304,
+                    "n_ref": 712900
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0039.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0039.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9303886520012149,
+                    "FN": 98516,
+                    "FP": 31206,
+                    "IoU": 0.8698380526178483,
+                    "TN": 167037684,
+                    "TP": 866898,
+                    "n_pred": 898104,
+                    "n_ref": 965414
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/nnUNet_results/Dataset001_RODS/nnUNetTrainerNoMirroring__nnUNetPlans__3d_fullres/fold_3/validation/RODS_0055.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_preprocessed/Dataset001_RODS/gt_segmentations/RODS_0055.nii.gz"
+        }
+    ]
+}
