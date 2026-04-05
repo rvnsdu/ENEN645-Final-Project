@@ -1,0 +1,362 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8721260594212527,
+        "FN": 51610.04761904762,
+        "FP": 29176.04761904762,
+        "IoU": 0.781346054441584,
+        "TN": 101741022.23809524,
+        "TP": 364419.4761904762,
+        "n_pred": 393595.5238095238,
+        "n_ref": 416029.5238095238
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.8721260594212527,
+            "FN": 51610.04761904762,
+            "FP": 29176.04761904762,
+            "IoU": 0.781346054441584,
+            "TN": 101741022.23809524,
+            "TP": 364419.4761904762,
+            "n_pred": 393595.5238095238,
+            "n_ref": 416029.5238095238
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7745807047238037,
+                    "FN": 10623,
+                    "FP": 2562,
+                    "IoU": 0.6320944249121044,
+                    "TN": 17003522,
+                    "TP": 22653,
+                    "n_pred": 25215,
+                    "n_ref": 33276
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0061.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8310939700200467,
+                    "FN": 46003,
+                    "FP": 2697,
+                    "IoU": 0.711001525104888,
+                    "TN": 103378367,
+                    "TP": 119813,
+                    "n_pred": 122510,
+                    "n_ref": 165816
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0062.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0062.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6178274140389609,
+                    "FN": 77602,
+                    "FP": 19685,
+                    "IoU": 0.4469972999857894,
+                    "TN": 88166603,
+                    "TP": 78638,
+                    "n_pred": 98323,
+                    "n_ref": 156240
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0063.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0063.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8305786237617282,
+                    "FN": 38210,
+                    "FP": 5795,
+                    "IoU": 0.7102475126916923,
+                    "TN": 73510593,
+                    "TP": 107866,
+                    "n_pred": 113661,
+                    "n_ref": 146076
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0064.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0064.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8291838841604365,
+                    "FN": 59312,
+                    "FP": 5051,
+                    "IoU": 0.7082101731797987,
+                    "TN": 68985436,
+                    "TP": 156217,
+                    "n_pred": 161268,
+                    "n_ref": 215529
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0065.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7935933532551431,
+                    "FN": 45729,
+                    "FP": 2069,
+                    "IoU": 0.6578157998353438,
+                    "TN": 78503515,
+                    "TP": 91887,
+                    "n_pred": 93956,
+                    "n_ref": 137616
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0066.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0066.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7743339217537666,
+                    "FN": 39348,
+                    "FP": 26616,
+                    "IoU": 0.6317658092175777,
+                    "TN": 67191872,
+                    "TP": 113172,
+                    "n_pred": 139788,
+                    "n_ref": 152520
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0067.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0067.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9267904490848372,
+                    "FN": 20412,
+                    "FP": 105990,
+                    "IoU": 0.8635689537933491,
+                    "TN": 145349862,
+                    "TP": 800088,
+                    "n_pred": 906078,
+                    "n_ref": 820500
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0068.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0068.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9276882346884027,
+                    "FN": 68303,
+                    "FP": 38439,
+                    "IoU": 0.8651292140013318,
+                    "TN": 156757105,
+                    "TP": 684697,
+                    "n_pred": 723136,
+                    "n_ref": 753000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0069.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0069.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9336397676166847,
+                    "FN": 70804,
+                    "FP": 40246,
+                    "IoU": 0.87553880880385,
+                    "TN": 154559146,
+                    "TP": 781196,
+                    "n_pred": 821442,
+                    "n_ref": 852000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0070.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0070.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9419725277152069,
+                    "FN": 30548,
+                    "FP": 61418,
+                    "IoU": 0.8903100839915173,
+                    "TN": 148321518,
+                    "TP": 746452,
+                    "n_pred": 807870,
+                    "n_ref": 777000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0071.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0071.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9397855673819883,
+                    "FN": 46723,
+                    "FP": 12067,
+                    "IoU": 0.8864108414949176,
+                    "TN": 157030977,
+                    "TP": 458777,
+                    "n_pred": 470844,
+                    "n_ref": 505500
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0072.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0072.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9183833601233912,
+                    "FN": 131690,
+                    "FP": 13934,
+                    "IoU": 0.8490839788006226,
+                    "TN": 165496506,
+                    "TP": 819310,
+                    "n_pred": 833244,
+                    "n_ref": 951000
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0073.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0073.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8587820859347618,
+                    "FN": 7676,
+                    "FP": 230046,
+                    "IoU": 0.7525136745142866,
+                    "TN": 157636574,
+                    "TP": 722824,
+                    "n_pred": 952870,
+                    "n_ref": 730500
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0074.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0074.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8709347659471359,
+                    "FN": 243215,
+                    "FP": 5003,
+                    "IoU": 0.7713768342869354,
+                    "TN": 166948596,
+                    "TP": 837490,
+                    "n_pred": 842493,
+                    "n_ref": 1080705
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0075.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0075.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9077572850835056,
+                    "FN": 85559,
+                    "FP": 950,
+                    "IoU": 0.8310948406306439,
+                    "TN": 167522129,
+                    "TP": 425666,
+                    "n_pred": 426616,
+                    "n_ref": 511225
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0076.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0076.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9337509436998965,
+                    "FN": 37849,
+                    "FP": 24718,
+                    "IoU": 0.8757343682347754,
+                    "TN": 167530810,
+                    "TP": 440927,
+                    "n_pred": 465645,
+                    "n_ref": 478776
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0077.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0077.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.920240149872402,
+                    "FN": 5021,
+                    "FP": 5793,
+                    "IoU": 0.8522637230525424,
+                    "TN": 15917586,
+                    "TP": 62384,
+                    "n_pred": 68177,
+                    "n_ref": 67405
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0078.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0078.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9327654213596892,
+                    "FN": 1896,
+                    "FP": 7070,
+                    "IoU": 0.8740022484541877,
+                    "TN": 15133192,
+                    "TP": 62194,
+                    "n_pred": 69264,
+                    "n_ref": 64090
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0079.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0079.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9380124288474594,
+                    "FN": 6374,
+                    "FP": 748,
+                    "IoU": 0.8832612116443745,
+                    "TN": 5968304,
+                    "TP": 53886,
+                    "n_pred": 54634,
+                    "n_ref": 60260
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0080.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0080.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9129523887770612,
+                    "FN": 10914,
+                    "FP": 1800,
+                    "IoU": 0.839845816642733,
+                    "TN": 15649254,
+                    "TP": 66672,
+                    "n_pred": 68472,
+                    "n_ref": 77586
+                }
+            },
+            "prediction_file": "/data/scratch/vinny/nnunet/inference/Dataset001_RODS/RODS_0081.nii.gz",
+            "reference_file": "/data/scratch/vinny/nnunet/nnUNet_raw/Dataset001_RODS/labelsTs/RODS_0081.nii.gz"
+        }
+    ]
+}

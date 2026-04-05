@@ -1,0 +1,12 @@
+{
+ "channel_names": {
+   "0": "CT"
+ }, 
+ "labels": {
+   "background": 0,
+   "rod": 1},
+
+ "numTraining": 60, 
+ "file_ending": ".nii.gz",
+ "overwrite_image_reader_writer": "SimpleITKIO"
+}
